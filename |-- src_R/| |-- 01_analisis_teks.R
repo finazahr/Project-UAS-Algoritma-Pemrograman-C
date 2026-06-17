@@ -10,8 +10,6 @@ if (trimws(teks) == "") {
   cat("Jumlah kata =", jumlah_kata, "\n")
   cat("Jumlah kalimat =", jumlah_kalimat, "\n")
 }
-## Jumlah kata = 92 
-## Jumlah kalimat = 5
 
 #Skenario-1 Input teks normal dengan beberapa kalimat
 teks <- "Saya suka belajar Python. Pemrograman itu menyenangkan."
@@ -24,8 +22,6 @@ if (trimws(teks) == "") {
   cat("Jumlah kata =", jumlah_kata, "\n")
   cat("Jumlah kalimat =", jumlah_kalimat, "\n")
 }
-## Jumlah kata = 7 
-## Jumlah kalimat = 2
 
 #Skenario-2 Input teks hanya satu kalimat
 teks <- "Hari ini cuacanya cerah."
@@ -39,8 +35,6 @@ if (trimws(teks) == "") {
   cat("Jumlah kata =", jumlah_kata, "\n")
   cat("Jumlah kalimat =", jumlah_kalimat, "\n")
 }
-## Jumlah kata = 4 
-## Jumlah kalimat = 1
 
 #Skenario-3 Input kosong
 teks <- ""
@@ -54,4 +48,3 @@ if (trimws(teks) == "") {
   cat("Jumlah kata =", jumlah_kata, "\n")
   cat("Jumlah kalimat =", jumlah_kalimat, "\n")
 }
-## Teks tidak boleh kosong
