@@ -8,8 +8,6 @@ else:
 
     print("Jumlah kata =", jumlah_kata)
     print("Jumlah kalimat =", jumlah_kalimat)
-## Jumlah kata = 92
-## Jumlah kalimat = 5
 
 #Skenario 1
 teks = "Saya suka belajar Python. Pemrograman itu menyenangkan."
@@ -21,8 +19,6 @@ else:
 
     print("Jumlah kata =", jumlah_kata)
     print("Jumlah kalimat =", jumlah_kalimat)
-## Jumlah kata = 7
-## Jumlah kalimat = 2
 
 #Skenario 2
 teks = "Hari ini cuacanya cerah."
@@ -34,8 +30,6 @@ else:
 
     print("Jumlah kata =", jumlah_kata)
     print("Jumlah kalimat =", jumlah_kalimat)
-## Jumlah kata = 4
-## Jumlah kalimat = 1
 
 #Skenario 3
 teks = ""
@@ -47,4 +41,3 @@ else:
 
     print("Jumlah kata =", jumlah_kata)
     print("Jumlah kalimat =", jumlah_kalimat)
-## Teks tidak boleh kosong
